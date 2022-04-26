@@ -1,0 +1,5 @@
+project: keybase-client
+target: keybase_nacl_enc
+
+cmds:
+  - cmd: /fuzz_keybase_nacl_enc
